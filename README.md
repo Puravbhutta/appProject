@@ -1,0 +1,2 @@
+# appProject
+PhoneGap trial app
